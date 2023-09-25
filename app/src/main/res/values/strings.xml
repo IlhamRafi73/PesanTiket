@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PesanTiket</string>
+    <string name="title">Pesan Tiket</string>
+    <array name="cities">
+        <item>Bandung</item>
+        <item>Semarang</item>
+        <item>Jakarta</item>
+        <item>Bekasi</item>
+        <item>Malang</item>
+        <item>Depok</item>
+        <item>Bogor</item>
+        <item>Tangerang</item>
+    </array>
+</resources>
+
+
+
+<!--Surabaya
+Bandung
+Semarang
+Jakarta
+Yogyakarta
+Bekasi
+Malang
+Depok
+Bogor
+Tangerang-->
